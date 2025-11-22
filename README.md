@@ -2,6 +2,8 @@
 
 Implemented Korean programming in JS.
 
+[![Development Note p.200](https://img.youtube.com/vi/Qy9eI3oNCFM/0.jpg)](https://www.youtube.com/watch?v=Qy9eI3oNCFM)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
